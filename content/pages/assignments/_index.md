@@ -18,7 +18,7 @@ Using your hometown as the subject of your investigation, assume that you are a 
 
 Write a memo of comments to the Environmental Protection Agency voicing your stance on pesticides and their effects on pollinators.
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Effective Memo Writing Examples (PDF)]({{< baseurl >}}/resources/mit11_003js16_memo_writing)
+[Effective Memo Writing Examples (PDF)]({{< baseurl >}}/resources/mit11_003js16_memo_writing)
 
 [Assignment 3]({{< baseurl >}}/pages/assignments/assignment-3-2013-observe-a-public-meeting) – Observe A Public Meeting
 -----------------------------------------------------------------------------------------------------------------------

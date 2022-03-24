@@ -38,7 +38,7 @@ Course Description, Goals, and Requirements
 {{< tdopen >}}
 
 
-Torjman, Sherri. _![This resource may not render correctly in a screen reader.](/images/inacessible.gif)_[What is Policy? (PDF)](http://www.caledoninst.org/Publications/PDF/544ENG.pdf) Ottawa, Caledon Institute of Social Policy, 2005.
+Torjman, Sherri. __[What is Policy? (PDF)](http://www.caledoninst.org/Publications/PDF/544ENG.pdf) Ottawa, Caledon Institute of Social Policy, 2005.
 
 Patton, Carl, David Sawicki, et al. _Basic Methods of Policy Analysis and Planning_. Routledge, 2015. ISBN: 9780137495092.
 
@@ -130,11 +130,11 @@ Policy Analysis - Case: Bees, Mites, and Pesticides
 {{< tdopen >}}
 
 
-Rose, Terra, Claire Kremen, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Policies to Protect Pollinators: Action Needed to Avert a Global Crisis in Agriculture." (PDF)](http://food.berkeley.edu/wp-content/uploads/2015/07/FINAL_PollinatorBrief.pdf) Berkeley Food Institute, UC Berkeley (2015). (Please read at least pp. 1–11 and p. 43).
+Rose, Terra, Claire Kremen, et al. ["Policies to Protect Pollinators: Action Needed to Avert a Global Crisis in Agriculture." (PDF)](http://food.berkeley.edu/wp-content/uploads/2015/07/FINAL_PollinatorBrief.pdf) Berkeley Food Institute, UC Berkeley (2015). (Please read at least pp. 1–11 and p. 43).
 
 D. J. P. "[The Decline of Bees](http://www.economist.com/blogs/economist-explains/2015/09/economist-explains-2)." _The Economist Explains_, September 6, 2015.
 
-Tirado, Reyes, Gergely Simon, et al. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Bees in Decline: A Review of Factors that Put Pollinators and Agriculture in Europe at Risk." (PDF - 2.3MB)](https://www.besnet.world/bees-decline-review-factors-put-pollinators-and-agriculture-europe-risk) _Greenpeace Research Laboratories Technical Report (Review)_ 1 (2013): 1–48.
+Tirado, Reyes, Gergely Simon, et al. ["Bees in Decline: A Review of Factors that Put Pollinators and Agriculture in Europe at Risk." (PDF - 2.3MB)](https://www.besnet.world/bees-decline-review-factors-put-pollinators-and-agriculture-europe-risk) _Greenpeace Research Laboratories Technical Report (Review)_ 1 (2013): 1–48.
 
 Aubrey, Allison. "[Buzz Over Bee Health: New Pesticide Studies Rev Up Controversy](http://www.npr.org/sections/thesalt/2015/04/22/401536105/buzz-over-bee-health-new-pesticide-studies-rev-up-controversy)," _NPR All Things Considered_, April 22, 2015.
 
@@ -164,9 +164,9 @@ Policy Analysis – Bees, (cont.)
 {{< tdopen >}}
 
 
-Jones, Nicola, and Cora Walsh. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Policy Briefs as a Communication Tool for Development Research." (PDF)](https://www.odi.org/sites/odi.org.uk/files/odi-assets/publications-opinion-files/594.pdf) Overseas Development Institute (ODI), 2008.
+Jones, Nicola, and Cora Walsh. ["Policy Briefs as a Communication Tool for Development Research." (PDF)](https://www.odi.org/sites/odi.org.uk/files/odi-assets/publications-opinion-files/594.pdf) Overseas Development Institute (ODI), 2008.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Decision / Action Memo Examples (PDF - 3.3MB)](http://shorensteincenter.org/wp-content/uploads/2012/07/MEMO-WRITING-HO-ALL-Danziger.pdf). Harvard Kennedy School, Shorenstein Center on Media, Politics and Public Policy.
+[Decision / Action Memo Examples (PDF - 3.3MB)](http://shorensteincenter.org/wp-content/uploads/2012/07/MEMO-WRITING-HO-ALL-Danziger.pdf). Harvard Kennedy School, Shorenstein Center on Media, Politics and Public Policy.
 
 [Guide to Document Preparation (PDF)](https://execsec.od.nih.gov/correspondence/docs/secretarial-correspondence.pdf). National Institutes of Health, Department of Health & Human Services.
 
@@ -202,7 +202,7 @@ Defense Policy
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[2017 White House Budget Proposal (PDF - 3.1MB)](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/budget/fy2018/amendment_03_16_18.pdf
+[2017 White House Budget Proposal (PDF - 3.1MB)](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/budget/fy2018/amendment_03_16_18.pdf
 ).
 
 \[CS\] Chapter 17.
@@ -255,7 +255,7 @@ Glasmeier, Amy. "American Poverty Policy from the 1930s to 2004." In _An Atlas o
 
 ———. "Appalachia: A Land Apart in a Wealthy Nation." In _An Atlas of Poverty in America: One Nation, Pulling Apart 1960–2003_. Routledge, 2005. ISBN: 9780415953351.
 
-Systematics, Cambridge. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Economic Impact Study of Completing the Appalachian Development Highway System." (PDF - 4.2MB)](https://www.arc.gov/report/economic-impact-study-of-completing-the-appalachian-development-highway-system/) _Prepared for the Appalachian Regional Commission_, 2008.
+Systematics, Cambridge. ["Economic Impact Study of Completing the Appalachian Development Highway System." (PDF - 4.2MB)](https://www.arc.gov/report/economic-impact-study-of-completing-the-appalachian-development-highway-system/) _Prepared for the Appalachian Regional Commission_, 2008.
 
 
 {{< tdclose >}}
@@ -285,9 +285,9 @@ Ziliak, James P. "[The Appalachian Regional Development Act and Economic Change]
 
 [Appalachia: A Report by the President's Appalachian Regional Commission, 1964](https://eric.ed.gov/?id=ED076290).
 
-Meade, Erica, and James P. Ziliak. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A State Earned Income Tax Credit: Issues and Options for Kentucky." (PDF)](http://ukcpr.org/sites/ukcpr/files/research-pdfs/PolicyInsights-No2.pdf) University of Kentucky Center for Poverty Research.
+Meade, Erica, and James P. Ziliak. ["A State Earned Income Tax Credit: Issues and Options for Kentucky." (PDF)](http://ukcpr.org/sites/ukcpr/files/research-pdfs/PolicyInsights-No2.pdf) University of Kentucky Center for Poverty Research.
 
-Ziliak, James P. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Rhetoric and Reality of the Minimum Wage: Implications for Kentucky." (PDF)](http://ukcpr.org/research/inequality/rhetoric-and-reality-minimum-wage-implications-kentucky) University of Kentucky Center for Poverty Research.
+Ziliak, James P. ["Rhetoric and Reality of the Minimum Wage: Implications for Kentucky." (PDF)](http://ukcpr.org/research/inequality/rhetoric-and-reality-minimum-wage-implications-kentucky) University of Kentucky Center for Poverty Research.
 
 
 {{< tdclose >}}
@@ -321,11 +321,11 @@ Social Insurance
 {{< tdopen >}}
 
 
-Grimble, Robin, Man-Kwun Chan, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Trees and Trade-offs: A Stakeholder Approach to Natural Resource Management." (PDF)](http://pubs.iied.org/pdfs/6066IIED.pdf) IIED, 1995.
+Grimble, Robin, Man-Kwun Chan, et al. ["Trees and Trade-offs: A Stakeholder Approach to Natural Resource Management." (PDF)](http://pubs.iied.org/pdfs/6066IIED.pdf) IIED, 1995.
 
 Olshansky, Robert B., Laurie A. Johnson, et al. "[Rebuilding Communities Following Disaster: Lessons from Kobe and Los Angeles](http://www.jstor.org/stable/23289510)." _Built Environment_ 32, no. 4 (2006): 354–74.
 
-Kretzmann, John P., and John L. McKnight. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Building Communities from the Inside Out: A Path Toward Finding and Mobilizing a Community's Assets." (PDF)](https://resources.depaul.edu/abcd-institute/publications/Documents/GreenBookIntro%202018.pdf) _Center for Urban Affairs and Policy Research: Evanston, IL_, 1993.
+Kretzmann, John P., and John L. McKnight. ["Building Communities from the Inside Out: A Path Toward Finding and Mobilizing a Community's Assets." (PDF)](https://resources.depaul.edu/abcd-institute/publications/Documents/GreenBookIntro%202018.pdf) _Center for Urban Affairs and Policy Research: Evanston, IL_, 1993.
 
 
 {{< tdclose >}}
@@ -349,7 +349,7 @@ Guest: Dr. Howard Heller, Associate Medical Director at MIT Medical
 
 Salmon, Daniel A., Stephen P. Teret, et al. "[Compulsory Vaccination and Conscientious or Philosophical Exemptions: Past, Present, and Future](http://dx.doi.org/10.1016/S0140-6736(06)68144-0)." _The Lancet_ 367, no. 9508 (2006): 436–42.
 
-Holland, Mary. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Compulsory Vaccination, the Constitution, and the Hepatitis B Mandate for Infants and Young Children." (PDF - 2.9MB)](http://digitalcommons.law.yale.edu/cgi/viewcontent.cgi?article=1194&context=yjhple) _Yale Journal of Health Policy, Law, and Ethics_ 12, no. 1 (2012): 39.
+Holland, Mary. ["Compulsory Vaccination, the Constitution, and the Hepatitis B Mandate for Infants and Young Children." (PDF - 2.9MB)](http://digitalcommons.law.yale.edu/cgi/viewcontent.cgi?article=1194&context=yjhple) _Yale Journal of Health Policy, Law, and Ethics_ 12, no. 1 (2012): 39.
 
 Bylander, Jessica. "[The United States' Piecemeal Approach to Vaccine Policy](http://connection.ebscohost.com/c/articles/112865278/united-states-piecemeal-approach-vaccine-policy)." _Health Affairs_ 35, no. 2 (2016): 195–8.
 
@@ -405,7 +405,7 @@ Guest: Coralie Cooper, Environmental Protection Specialist at Volpe
 
 [Timeline of Air Quality Policy (PDF)]({{< baseurl >}}/resources/mit11_003js16_air_quality).
 
-Bennett, David. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Zero Emission Vehicles: The Air Pollution Messiah-Northeastern States Mandate ZEVs without Considering the Alternatives or Consequences." (PDF - 2.0MB)](http://scholarship.law.wm.edu/cgi/viewcontent.cgi?article=1311&context=wmelpr) _William & Mary Environmental Law & Policy Review_ 20, no. 3 (1996): 333.
+Bennett, David. ["Zero Emission Vehicles: The Air Pollution Messiah-Northeastern States Mandate ZEVs without Considering the Alternatives or Consequences." (PDF - 2.0MB)](http://scholarship.law.wm.edu/cgi/viewcontent.cgi?article=1311&context=wmelpr) _William & Mary Environmental Law & Policy Review_ 20, no. 3 (1996): 333.
 
 Miller, Paul, and Matt Solomon. "[A Brief History of Technology-Forcing Motor Vehicle Regulations](http://www.nescaum.org/documents/a-brief-history-of-technology-forcing-motor-vehicle-regulations)." _EM: Magazine for Environmental Managers_ (2009): 4–8.
 
@@ -431,7 +431,7 @@ Guest: Debbi Edelstein, Executive Director of New England Wild Flower Society
 {{< tdopen >}}
 
 
-Farnsworth, Elizabeth. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["State of New England's Native Plants." (PDF - 2.1MB)](http://www.nativeplanttrust.org/documents/3/state-of-the-plants-brief_rev2.pdf) New England Wild Flower Society, 2015.
+Farnsworth, Elizabeth. ["State of New England's Native Plants." (PDF - 2.1MB)](http://www.nativeplanttrust.org/documents/3/state-of-the-plants-brief_rev2.pdf) New England Wild Flower Society, 2015.
 
 [Global Strategy for Plant Conservation 2011–2020](https://www.cbd.int/gspc/strategy.shtml). Convention on Biological Diversity.
 
@@ -459,7 +459,7 @@ Guest: Joe Burnieika, Interim Director at Catholic Charities of the Archdiocese 
 
 Burnieika, Joseph. [Letter, Racially Identifiable Schools, December 8, 1981](https://repository.library.northeastern.edu/files/neu:rx917z28c).
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Busing in Boston: A Research Guide (PDF)](https://www.suffolk.edu/-/media/suffolk/documents/academics/libraries/moakley-archive/research-tools/businginbostonresearchguide_2015_pdftxt.pdf?la=en&hash=485CB07AC31E3B4E7EE38C0B878D5B260866F64D). Moakley Archive and Institute. Suffolk University, Boston.
+[Busing in Boston: A Research Guide (PDF)](https://www.suffolk.edu/-/media/suffolk/documents/academics/libraries/moakley-archive/research-tools/businginbostonresearchguide_2015_pdftxt.pdf?la=en&hash=485CB07AC31E3B4E7EE38C0B878D5B260866F64D). Moakley Archive and Institute. Suffolk University, Boston.
 
 Gamm, Gerald. Chapters 1–3 in _Urban Exodus: Why the Jews Left Boston and the Catholics Stayed_. Harvard University Press, 2001. ISBN: 9780674005587.
 
