@@ -14,7 +14,7 @@ Parker, Bob. "[Planning Analysis: The Theory of Citizen Participation](http://pa
 
 Musgrave, Richard Abel. "[The Voluntary Exchange Theory of Public Economy](http://dx.doi.org/10.2307/1882886)." _The Quarterly Journal of Economics_ 53, no. 2 (1939): 213–37.
 
-Levin, Kelly, and Brian Petersen. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Tradeoffs in the Policy Process in Advancing Climate Change Adaptation: The Case of Australia's Great Eastern Ranges Initiative." (PDF)](http://centread.ucsc.edu/documents/Levin_Petersen_JNRPR2011.pdf) _Journal of Natural Resources Policy Research_ 3, no. 2 (2011): 145–62.
+Levin, Kelly, and Brian Petersen. ["Tradeoffs in the Policy Process in Advancing Climate Change Adaptation: The Case of Australia's Great Eastern Ranges Initiative." (PDF)](http://centread.ucsc.edu/documents/Levin_Petersen_JNRPR2011.pdf) _Journal of Natural Resources Policy Research_ 3, no. 2 (2011): 145–62.
 
 Choumert, Johanna, and Julien Salanié. "[Provision of Urban Green Spaces: Some Insights from Economics](http://dx.doi.org/10.1080/01426390802045996)." _Landscape Research_ 33, no. 3 (2008): 331–45.
 
@@ -44,11 +44,11 @@ Eilperin, Juliet. "[Mass. Wind Farm that Obama Administration Might Support Meet
 
 Chapleo, Chris, and Christopher Simms. "[Stakeholder Analysis in Higher Education: A Case Study of the University of Portsmouth](http://dx.doi.org/10.1080/13603100903458034)." _Perspectives_ 14, no. 1 (2010): 12–20.
 
-Taylor-Nanista, Sarah. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Finding a Safe Space: Prioritizing Safety Considerations for Trans Youth in the Portland Homeless Youth Continuum." (PDF)](https://www2.tulane.edu/newcomb/upload/safe_space_teaching_note.pdf) Center on Women and Public Policy Case Study Program Humphrey Institute of Public Affairs, University of Minnesota.
+Taylor-Nanista, Sarah. ["Finding a Safe Space: Prioritizing Safety Considerations for Trans Youth in the Portland Homeless Youth Continuum." (PDF)](https://www2.tulane.edu/newcomb/upload/safe_space_teaching_note.pdf) Center on Women and Public Policy Case Study Program Humphrey Institute of Public Affairs, University of Minnesota.
 
-First Nations Development Institute. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Borrowing Trouble: Predatory Lending in Native American Communities." (PDF - 3.4MB)](http://www.sdibaonline.org/Archive/BorrowingTrouble.pdf) First Nations Development Institute (2008).
+First Nations Development Institute. ["Borrowing Trouble: Predatory Lending in Native American Communities." (PDF - 3.4MB)](http://www.sdibaonline.org/Archive/BorrowingTrouble.pdf) First Nations Development Institute (2008).
 
-Ingram, Gregory K, and Yu-Hung Hong. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Evaluating Smart Growth Policies in the United States." (PDF - 1.3MB)](https://www.lincolninst.edu/sites/default/files/pubfiles/evaluating-smart-growth-full.pdf) Informationen zur Raumentwicklung, 2012.
+Ingram, Gregory K, and Yu-Hung Hong. ["Evaluating Smart Growth Policies in the United States." (PDF - 1.3MB)](https://www.lincolninst.edu/sites/default/files/pubfiles/evaluating-smart-growth-full.pdf) Informationen zur Raumentwicklung, 2012.
 
 Tendler, Judith, and Sara Freedheim. "[Trust in a Rent-seeking World: Health and Government Transformed in Northeast Brazil](http://dx.doi.org/10.1016/0305-750X(94)90173-2)." _World Development_ 22, no. 12 (1994): 1771–91.
 
@@ -56,11 +56,11 @@ Burtless, Gary. "[The Case for Randomized Field Trials in Economic and Policy Re
 
 ### Cape Wind Case Readings
 
-Susman, Gerald I, and Amy K. Glasmeier. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Industry Structure and Company Strategies of Major Domestic and Foreign Wind and Solar Energy Manufacturers: Opportunities for Supply Chain Development in Appalachia." (PDF - 2.7MB)](https://dusp.mit.edu/sites/dusp.mit.edu/files/attachments/project/ARC_PSU_WindSolar_FINAL.pdf) (2009).
+Susman, Gerald I, and Amy K. Glasmeier. ["Industry Structure and Company Strategies of Major Domestic and Foreign Wind and Solar Energy Manufacturers: Opportunities for Supply Chain Development in Appalachia." (PDF - 2.7MB)](https://dusp.mit.edu/sites/dusp.mit.edu/files/attachments/project/ARC_PSU_WindSolar_FINAL.pdf) (2009).
 
 Bradsher, Keith. "[China Leading Global Race to Make Clean Energy](http://www.nytimes.com/2010/01/31/business/energy-environment/31renew.html?_r=0)," _The New York Times,_ January 30, 2010.
 
-CRA International. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A Master Electrical Transmission Plan for New York City." (PDF - 1.6MB)](http://nyssmartgrid.com/wp-content/uploads/2012/09/a-master-electrical-transmission-plan-for-new-york-city.pdf) (2009).
+CRA International. ["A Master Electrical Transmission Plan for New York City." (PDF - 1.6MB)](http://nyssmartgrid.com/wp-content/uploads/2012/09/a-master-electrical-transmission-plan-for-new-york-city.pdf) (2009).
 
 Daley, Beth. "[Tribes Get a Hearing on Wind Farm Opposition](http://archive.boston.com/news/local/massachusetts/articles/2010/02/03/salazar_meets_with_tribes_on_nantucket_sound_over_wind_farm/)," _Boston.com_, February 3, 2010.
 
