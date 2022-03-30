@@ -12,7 +12,7 @@ Sessions: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-This course builds on [_11.002J Making Public Policy_](/courses/11-002j-making-public-policy-fall-2014/). It assumes that you have already had some familiarity with the basic concepts and terminology of public policy and administration.
+This course builds on [_11.002J Making Public Policy_](/courses/11-002j-making-public-policy-fall-2014). It assumes that you have already had some familiarity with the basic concepts and terminology of public policy and administration.
 
 Course Overview
 ---------------
